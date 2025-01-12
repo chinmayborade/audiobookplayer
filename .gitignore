@@ -45,4 +45,4 @@ app.*.map.json
 /android/app/release
 
 # Ignore the .env file (for sensitive information)
-.env
+lib/env_folder/.env
